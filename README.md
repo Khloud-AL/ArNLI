@@ -4,7 +4,7 @@ Natural Language Inference processes pairs of sentences to extract their semanti
 Pair sentences are annotated with three classes (Contradictions, Entailment, Neutral). Those three classes represent all possible semantic relations between each pair of sentences
 
 **1- Entailment**: A and B intersect (A  ∩ B ≠ ∅, A ∪ B  ≠  Universe) or one may contain another ((A ∁ B) OR (B ∁ A)). Figure 1 represents the Non-Contradiction Algebra Sets with examples.
-![](https://github.com/Khloud-AL/ArNLI/tree/main/figures/fig1.png)
+![](file:///https://github.com/Khloud-AL/ArNLI/tree/main/figures/fig1.png)
 
 **2- Contradiction**: A, B cannot be together, if A is True then B is False (A  ∩ B = ∅, and A ∪ B = Universe). Figure 2 represents the Contradiction Algebra Sets with examples.
 
