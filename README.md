@@ -12,7 +12,7 @@ Pair sentences are annotated with three classes (Contradictions, Entailment, Neu
 
 **3- Neutral**: A, B have no semantic relations. Each one of them is a different set in universe. No intersection and their union is a subset of universe not all universe (A ∩ B = ∅ and A ∪ B ≠Universe) Figure 3 represents the Neutral Algebra Sets with examples.  
 
-![](fhttps://github.com/Khloud-AL/ArNLI/tree/main/figures/fig3.png)
+![](https://github.com/Khloud-AL/ArNLI/tree/main/figures/fig3.png)
 
 
 To the best of our knowledge there is no Arabic dataset designed for contradiction. We created this dataset that contains more than 12k pairs of sentences.
